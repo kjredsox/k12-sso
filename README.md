@@ -1,6 +1,6 @@
 # PHP K12 SSO
 
-This is a php examlpe of setting up an SSO (Single Sign-On) from Blackbaud onProducts.
+This is a php example of setting up an SSO (Single Sign-On) from Blackbaud onProducts.
 
 ## Getting Started
 
@@ -8,8 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 * Local Server running PHP
-* Abbiltiy to clone or download code from github
-* Ability to create SSO in onProducts
+* Ability to clone or download code from Github
+* Ability to create SSO in onProducts (Platform Manager role)
 
 ### Anatomy of provided JWT
 Properties | Description
