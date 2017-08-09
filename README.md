@@ -21,7 +21,7 @@ nbf | Defines the time before which the JWT MUST NOT be accepted for processing
 iss | The issuer of the token. ie: https://SCHOOLNAME.myschoolapp.com
 aud | The audience of the token. ie: The domain of the redirect url from the SSO Settings screen.
 uid | User Id from Profile
-hid | Hosting Id from Profile
+hid | Host Id from Profile
 onapi | Url to get more user info. Must have API Access and valid API Token
 
 
