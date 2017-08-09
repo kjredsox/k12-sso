@@ -9,7 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 * Local Server runing PHP
 * Abbiltiy to clone or download code from github
-* Ability to creat SSO in onProducts
+* Ability to create SSO in onProducts
 
 ### Anatomy of provided JWT
 Properties | Description
