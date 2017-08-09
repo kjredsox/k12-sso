@@ -7,9 +7,9 @@ This is a php examlpe of setting up an SSO (Single Sign-On) from Blackbaud onPro
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Please read the [SSO Tutorial](http://on-api.developer.blackbaud.com/tutorials/jwt-sso/) first.
 
 ### Prerequisites
-Local Server runing PHP
-Abbiltiy to clone or download code from github
-Ability to creat SSO in onProducts
+* Local Server runing PHP
+* Abbiltiy to clone or download code from github
+* Ability to creat SSO in onProducts
 
 ### Anatomy of provided JWT
 Properties | Description
