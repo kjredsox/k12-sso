@@ -1,5 +1,7 @@
 {
     "require": {
-        "lcobucci/jwt": "^3.2"
+        "lcobucci/jwt": "^3.2",
+        "guzzlehttp/guzzle": "~6.0",
+        "vlucas/phpdotenv": "^2.4"
     }
 }
