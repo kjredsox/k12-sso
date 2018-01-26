@@ -8,7 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 
 
 ## Local Setup
------
 Copy the `.env.example` file to a local `.env` and ensure all the settings are correct for your local environment, 
 filling in the secret keys or providing their own values when necessary.
 
