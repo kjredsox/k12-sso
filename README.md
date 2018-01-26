@@ -6,6 +6,22 @@ This is a php example of setting up an SSO (Single Sign-On) from Blackbaud onPro
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. Please read the [SSO Tutorial](http://on-api.developer.blackbaud.com/tutorials/jwt-sso/) first.
 
+
+## Local Setup
+-----
+Copy the `.env.example` file to a local `.env` and ensure all the settings are correct for your local environment, 
+filling in the secret keys or providing their own values when necessary.
+
+Add your application configuration to a `.env` file in the root of your
+project. **Make sure the `.env` file is added to your `.gitignore` so it is not
+checked-in the code**
+
+### Example
+```shell
+S3_BUCKET="dotenv"
+SECRET_KEY="souper_seekret_key"
+```
+
 ### Prerequisites
 * Local Server running PHP
 * Ability to clone or download code from Github
